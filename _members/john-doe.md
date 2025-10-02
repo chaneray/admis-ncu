@@ -1,7 +1,7 @@
 ---
 name: John Doe
 image: images/photo.jpg
-role: phd
+role: current_master
 group: alum
 links:
   github: john-doe
