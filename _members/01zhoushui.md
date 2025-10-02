@@ -1,24 +1,22 @@
 ---
-name: 周水庚 (Shuigeng Zhou)
-image: https://image.baidu.com/search/down?url=https://wx2.sinaimg.cn/large/008K2OkEly1i34327e7twj30k00qo0u4.jpg
+name: 王炜立 (Wangwei Li)
+image: https://p.ananas.chaoxing.com/star3/420_420c/1506292e9c31f794424388b0aeabdc0d.jpg
 role: prof
-affiliation: Fudan University
+affiliation: TongJi University
 aliases:
   - S.G. Zhou
   - Shuigeng Zhou
   - S. Zhou
   - S. ZHOU
 links:
-  home-page: https://admis.fudan.edu.cn/sgzhou/
+  home-page: https://jlsy.ncu.edu.cn/sqsz/sqyr/qy/645404649898446492106b7e2db2dc40.blk.htm
   orcid: 0000-0002-1949-2768
   google-scholar: yAE-Av4AAAAJ
-  email: sgzhou@fudan.edu.cn
+  email: wlwang@ncu.edu.cn
 ---
 
 ### 个人简介/About Me
-Shuigeng Zhou is a full professor (since 2003) at the School of Computer Science, Fudan University. He leads the research group of Advanced Data and Machine Intelligence Systems (ADMIS). He was the director (Sept. 2018 – May 2024) and vice-director (2004 to Aug. 2018) of Shanghai Key Lab of Intelligent Information Processing (SKLIIP), Fudan University. He held the post of Vice Chairman (in charge of research affairs) of the Department of Computer Science and Engineering (CSE), Fudan University, from January 2005 to May 2008. In May 2008, the CSE Department was merged into the School of Computer Science, Fudan University.
-
-Shuigeng Zhou received his Bachelor Degree of Engineering from Huazhong University of Science and Technology (HUST) in July 1988, his Master Degree of Engineering from University of Electronic Science and Technology of China (UESTC) in March 1991, and his PhD of Computer Science from Fudan University in July 2000. He served in Shanghai Academy of Spaceflight Technology from April 1991 to August 1997, as an engineer and a senior engineer (since August 1995) respectively. Before joining Fudan University, he was a post-doctoral researcher in Wuhan University from August 2000 to August 2002.
+王炜立，1980年生，博士，副教授，数学与计算机学院计算机系副主任，南昌大学云计算创新创业基地负责人，南昌大学十大教学标兵。主讲《云计算》和《数据结构》课程，2门省级一流课程负责人，获得南昌大学首次教学质量“特优奖”，学校“授课质量优秀或优秀提名奖”22次，学校优秀毕业设计指导教师6次；获得全国多媒体课件大赛微课组二等奖1次，江西省高校青年教师教学竞赛工科组二等奖1次，南昌大学授课竞赛一等奖2次，二等奖2次；主持完成4项省级教改课题，获得2项南昌大学教学成果奖，主编或副主编教材6部；担任创新基地负责人，指导学生完成国家级大创项目2项，省级多项，指导学生参加竞赛，获得国家级一等奖1项，二等奖5项，三等级4项和大量省级奖项，其中指导学生参加“中国大学生计算机设计大赛”并获得一等奖，实现了计算机类全国一等奖的突破。
 
 ### 研究方向/Research Interests
 - Artificial Intelligence
@@ -42,6 +40,4 @@ Shuigeng Zhou received his Bachelor Degree of Engineering from Huazhong Universi
   - Optimal trade execution
   - Fraud detection
 
-**更多详细信息请访问/For more detailed information, please visit:** [https://admis.fudan.edu.cn/sgzhou/](https://admis.fudan.edu.cn/sgzhou/)。
-
-### 代表性论文/Publications
+**更多详细信息请访问/For more detailed information, please visit:** [https://jlsy.ncu.edu.cn/sqsz/sqyr/qy/645404649898446492106b7e2db2dc40.blk.htm](https://jlsy.ncu.edu.cn/sqsz/sqyr/qy/645404649898446492106b7e2db2dc40.blk.htm)。
