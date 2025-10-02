@@ -2,21 +2,37 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+prof:
+  icon: fa-solid fa-user-tie
+  description: Professor
+
+assocprof:
+  icon: fa-solid fa-chalkboard-teacher
+  description: Associate Professor
+  
+asstprof:
+  icon: fa-solid fa-user-edit
+  description: Assistant Professor
 
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+current_phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+current_master:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Master Student
+
+graduated_phd:
+  icon: fa-solid fa-graduation-cap
+  description: Graduated PhD Student
+
+graduated_master:
+  icon: fa-solid fa-user-graduate
+  description: Graduated Master Student
 
 programmer:
   icon: fa-solid fa-code
