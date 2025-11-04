@@ -1,6 +1,6 @@
 ---
 name: 郑海飞 (Zheng Haifei)
-image: https://my.chsi.com.cn/archive/photo/xjpic.do?pid=9tdbc6xv2eyypei3
+image: https://javaweb-ai-010.oss-cn-beijing.aliyuncs.com/xjpic.jpg
 role: current_master
 affiliation: 南昌大学
 aliases:
