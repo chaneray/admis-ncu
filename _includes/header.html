@@ -41,6 +41,15 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
+    <!-- 添加首页链接 -->
+    <a
+      href="{{ "/" | relative_url }}"
+      data-tooltip="返回首页"
+      {% if page.url == "/" %}class="active"{% endif %}
+    >
+      首页
+    </a>
+    
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
@@ -50,6 +59,7 @@
         <a
           href="{{ page.dir | relative_url | uri_escape }}"
           data-tooltip="{{ page.nav.tooltip | xml_escape }}"
+          {% if page.url == page.dir %}class="active"{% endif %}
         >
           {{ page.title }}
         </a>
