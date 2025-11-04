@@ -12,14 +12,14 @@ nav:
 
 ## 研究人员/Researchers
 
-{% include list.html data="members" component="portrait" filters="role: (?i)(prof|postdoc)" %}
+{% include list.html data="members" component="portrait" filter="role == 'prof' or role == 'postdoc'" %}
 
 
 {% include section.html %}
 
 ## 在读博士生/Doctoral candidate
 
-{% include list.html data="members" component="portrait" filters="role: current_phd" %}
+{% include list.html data="members" component="portrait" filter="role == 'current_phd'" %}
 
 
 
@@ -27,7 +27,7 @@ nav:
 
 ## 在读硕士生/Master's candidate
 
-{% include list.html data="members" component="portrait" filters="role: current_master" %}
+{% include list.html data="members" component="portrait" filter="role == 'current_master'" %}
 
 
 
