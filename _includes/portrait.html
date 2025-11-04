@@ -23,7 +23,11 @@
     {% endif %}
 
     <img
-      src="{{ member.image | relative_url | uri_escape }}"
+      {% if member.image contains 'http' %}
+        src="{{ member.image | uri_escape }}"
+      {% else %}
+        src="{{ member.image | relative_url | uri_escape }}"
+      {% endif %}
       class="portrait-image"
       alt="member portrait"
       loading="lazy"
